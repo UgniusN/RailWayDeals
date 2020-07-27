@@ -1,0 +1,27 @@
+.startbox {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-left: 7%;
+}
+
+.field {
+    color: white !important;
+    padding-right: 20px !important;
+}
+
+.cardbox {
+    display: flex;
+    justify-content: flex-start;
+    padding: auto;
+}
+
+.startbox {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.bandymas {
+    justify-content: center;
+}

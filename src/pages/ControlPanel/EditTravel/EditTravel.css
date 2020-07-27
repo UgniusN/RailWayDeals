@@ -1,0 +1,28 @@
+.formBase {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.editTravelForm {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    background-color: #F2F2F2;
+    color: black;
+    width: 60%;
+    padding: 10%;
+}
+
+.labelis {
+    margin-top: 20px;
+}
+
+.deleteBlock {
+    margin-top: 50px;
+    display: flex;
+    width: 60%;
+    margin: auto;
+    justify-content: flex-end;
+}

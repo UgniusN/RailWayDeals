@@ -1,0 +1,26 @@
+.formBase {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.createTravelForm {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    background-color: #F2F2F2;
+    color: black;
+    width: 60%;
+    padding: 10%;
+    margin-top: 50px;
+}
+
+.labelis {
+    margin-top: 20px;
+}
+
+
+.createTravelButton {
+    background-color: #4caf50 !important;
+}

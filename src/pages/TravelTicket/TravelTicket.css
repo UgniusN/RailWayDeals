@@ -1,0 +1,42 @@
+.orderpage {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.orderImage{
+    width: auto;
+}
+
+.orderImageContainer {
+    width: 100%;
+    height: 27vh;
+    background-image: url("https://jp.lt/wp-content/uploads/2019/04/file51570927_acb27d59.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 54% 50%;
+}
+
+.orderstructure {
+    margin-top: 40px;
+    width: 34%;
+}
+
+.orderContent { 
+    padding: 70px;
+    padding-top: 20px;
+}
+
+.orderheadertext {
+    color: #B1B1B1;
+}
+
+.structure {
+    display: flex;
+    align-items: center;
+}
+
+.qrcodeclass {
+    width: 100px;
+    margin-left: 50px;
+}

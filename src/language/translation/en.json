@@ -1,0 +1,108 @@
+{
+    "travelList" : {
+    "buynow" : "Buy now",
+    "searchfortravel" : "Search for a travel",
+    "startdestination" : "Travel's start location"
+    },
+    "buycard" : {
+        "buynow" : "Buy now"
+    },
+    "login" : {
+        "username" : "Username",
+        "password" : "Password",
+        "login" : "Login",
+        "register" : "Register",
+        "emptyuser" : "User name field cannot be empty",
+        "emptypassword" : "User password field cannot be empty"
+    },
+    "navigation" : {
+        "home" : "Home",
+        "travels" : "Travels",
+        "mytravels" : "My Travels",
+        "myprofile" : "My Profile",
+        "controlpanel" : "Control panel",
+        "login" : "Log in",
+        "logout" : "Log off"
+    },
+
+    "controlpanel" : {
+        "managetravels" : "Manage travels",
+        "createtravel" : "Create travel",
+        "edit" : "Edit",
+        "rowsperpage": "Rows per page"
+    },
+
+    "edittravel" : {
+        "deletetravel" : "Delete travel",
+        "confirmedit" : "Confirm edit",
+        "startdestination" : "Travel start destination:",
+        "enddestination" : "Travel end destination:",
+        "price" : "Travel price:",
+        "date" : "Travel date:",
+        "emptystart": "Start destination field cannot be empty",
+        "emptyend": "End destination field cannot be empty",
+        "emptyprice": "Price field cannot be empty",
+        "wrongdate": "Incorrect date format",
+        "language" : "en",
+        "incorrectprice": "Price must be higher than 0"
+    },
+
+    "createtravel" : {
+        "createtravel" : "Create travel",
+        "startdestination" : "Travel start destination:",
+        "enddestination" : "Travel end destination:",
+        "price" : "Travel price:",
+        "date" : "Travel date:",
+        "emptystart": "Start destination field cannot be empty",
+        "emptyend": "End destination field cannot be empty",
+        "emptyprice": "Price field cannot be empty",
+        "wrongdate": "Incorrect date format",
+        "language" : "en",
+        "incorrectprice": "Price must be higher than 0"
+    },
+
+    "homepage" : {
+        "welcome" : "Welcome to Railway",
+        "second" : "best train travel deals.",
+        "check" : "check the current deals"
+    },
+    "mytravels" : {
+        "upcommingtravels" : "Upcoming travels",
+        "pasttravels" : "Past travels"
+    },
+    "travelticket": {
+        "travelername" : "Traveler name:",
+        "travelerlastname" : "Traveler lasname:",
+        "startstation" : "Departure station:",
+        "endstation" : "Arrival station:",
+        "traveldate" : "Travel date:",
+        "travelcode" : "Ticket code:"
+    },
+    "registration" : {
+        "register": "Register",
+        "username" : "Username:",
+        "password" : "Password:",
+        "name" : "Name:",
+        "lastname" : "Lastname:",
+        "email" : "Email:",
+        "country" : "Country:",
+        "emptyusername" : "Username field cannot be empty",
+        "emptypassword" : "Password field cannot be empty",
+        "emptyname" : "Name field cannot be empty",
+        "emptylastname" : "Lastname field cannot be empty",
+        "emptyemail" : "Email field cannot be empty",
+        "emptycountry" : "Country field cannot be empty"
+    },
+    "buypage" : {
+        "startdestination" : "Start destination:",
+        "enddestination" : "End destination:",
+        "price": "Travel price:",
+        "travdate:" : "Travel date",
+        "travelas" : "Travel date",
+        "buyticket" : "Buy ticket"
+    },
+    "ticketcard" :  {
+        "viewticket" : "View ticket",
+        "date" : "Date"
+    }
+}

@@ -1,0 +1,12 @@
+.profileBase {
+    text-align: center;
+    width: 30%;
+    background: lightblue;
+    padding-bottom: 20%;
+}
+
+.profileButton {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}

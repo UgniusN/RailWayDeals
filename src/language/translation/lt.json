@@ -1,0 +1,108 @@
+{
+    "travelList" : {
+    "buynow" : "Pirkti dabar",
+    "searchfortravel" : "Ieškoti kelionės",
+    "startdestination" : "Pradinė kelionės vieta"
+    },
+    "buycard" : {
+        "buynow" : "Pirkti dabar"
+    },
+    "login" : {
+        "username" : "Vartotojo vardas",
+        "password" : "Vartotojo slaptazodis",
+        "login" : "Prisijungti",
+        "register" : "Registruotis",
+        "emptyuser" : "Vartotojo vardo laukas negali buti tuscias",
+        "emptypassword" : "Vartotojo slaptazodzio laukas negali buti tuscias"
+    },
+    "navigation" : {
+        "home" : "Namai",
+        "travels" : "Keliones",
+        "mytravels" : "Mano keliones",
+        "myprofile" : "Mano profilis",
+        "controlpanel" : "Valdymo panele",
+        "login" : "Prisijungti",
+        "logout" : "Atsijungti"
+    },
+
+    "controlpanel" : {
+        "managetravels" : "Tvarkyti keliones",
+        "createtravel" : "Kurti kelionę",
+        "edit" : "Redaguoti",
+        "rowsperpage": "Eilutės per puslapį"
+    },
+
+    "edittravel" : {
+        "deletetravel" : "Ištrinti kelione",
+        "confirmedit" : "Patvirtinti koregavima",
+        "startdestination" : "Keliones pradinė vieta:",
+        "enddestination" : "Keliones galinė vieta:",
+        "price" : "Keliones kaina:",
+        "date" : "Keliones data:",
+        "emptystart": "Keliones pradines vietos laukas negali buti tuscias",
+        "emptyend": "Keliones galines vietos laukas negali buti tuscias",
+        "emptyprice": "Keliones kainos laukas negali buti tuscias",
+        "wrongdate": "Neteisingas datos formatas",
+        "language" : "lt",
+        "incorrectprice": "Kaina turi buti didesne uz 0"
+    },
+
+    "createtravel" : {
+        "createtravel" : "Kurti kelione",
+        "startdestination" : "Keliones pradinė vieta:",
+        "enddestination" : "Keliones galinė vieta:",
+        "price" : "Keliones kaina:",
+        "date" : "Keliones data:",
+        "emptystart": "Keliones pradines vietos laukas negali buti tuscias",
+        "emptyend": "Keliones galines vietos laukas negali buti tuscias",
+        "emptyprice": "Keliones kainos laukas negali buti tuscias",
+        "wrongdate": "Neteisingas datos formatas",
+        "language" : "lt",
+        "incorrectprice": "Kaina turi buti didesne uz 0"
+    },
+
+    "homepage" : {
+        "welcome" : "Sveiki atvyke į Railway",
+        "second" : "geriausi traukinių keliavimo pasiulymai.",
+        "check" : "žiūrėti dabartinius pasiulymus"
+    },
+    "mytravels" : {
+        "upcommingtravels" : "Ateinančios kelionės",
+        "pasttravels" : "Praėjusios kelionės"
+    },
+    "travelticket": {
+        "travelername" : "Keliautojo vardas",
+        "travelerlastname" : "Keliautojo pavarde",
+        "startstation" : "Išvykimo stotis",
+        "endstation" : "Atvykimo stotis",
+        "traveldate" : "Kelionės data",
+        "travelcode" : "Bilieto kodas"
+    },
+    "registration" : {
+        "register": "Registruotis",
+        "username" : "Vartotojo vardas:",
+        "password" : "Slaptažodis:",
+        "name" : "Vardas:",
+        "lastname" : "Pavardė:",
+        "email" : "El. Paštas:",
+        "country" : "Šalis:",
+        "emptyusername" : "Vartotojo vardo laukas negali būti tuščias",
+        "emptypassword" : "Vartotojo slaptažpdžio laukas negali būti tuščias",
+        "emptyname" : "Vardo laukas negali būti tuščias",
+        "emptylastname" : "Pavardės laukas negali būti tuščias",
+        "emptyemail" : "El. Pašto laukas negali būti tuščias",
+        "emptycountry" : "Šalies laukas negali būti tuščias"
+    },
+    "buypage" : {
+        "startdestination" : "Pradine stotis:",
+        "enddestination" : "Galine stotis:",
+        "price": "Keliones kaina:",
+        "travdate:" : "Keliones date:",
+        "travelas" : "Keliones data",
+        "buyticket" : "Pirkti bilieta"
+    },
+    "ticketcard" :  {
+        "viewticket" : "Žiūrėti bilietą",
+        "date" : "Data"
+    }
+}

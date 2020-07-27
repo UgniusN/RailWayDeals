@@ -1,0 +1,21 @@
+.cardbox {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-self: flex-start;
+	justify-content: space-between;
+}
+
+.cardbox div {
+	margin: 5px
+}
+
+.text-link {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
